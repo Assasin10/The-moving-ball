@@ -1,0 +1,14 @@
+
+    #body{
+        background-color: black;
+    }
+    #ball {
+        width: 15vw;
+        height: 15vw;
+        border-radius: 50%;
+        background-color:greenyellow;
+        position: absolute;
+        top: 45%;
+        left: 45%;
+    }
+    
